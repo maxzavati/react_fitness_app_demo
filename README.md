@@ -20,27 +20,27 @@ The web version serves as a user onboarding, profile management and data collect
 
 # Screenshots
 
-![Screenshot 1](public/01.png)
-![Screenshot 2](public/02.png)
-![Screenshot 3](public/03.png)
-![Screenshot 4](public/04.png)
-![Screenshot 5](public/05.png)
-![Screenshot 6](public/06.png)
-![Screenshot 7](public/07.png)
-![Screenshot 8](public/08.png)
-![Screenshot 9](public/09.png)
-![Screenshot 10](public/10.png)
-![Screenshot 11](public/11.png)
-![Screenshot 12](public/12.png)
-![Screenshot 13](public/13.png)
-![Screenshot 14](public/14.png)
-![Screenshot 15](public/15.png)
-![Screenshot 16](public/16.png)
-![Screenshot 17](public/17.png)
-![Screenshot 18](public/18.png)
-![Screenshot 19](public/19.png)
-![Screenshot 20](public/20.png)
-![Screenshot 21](public/21.png)
-![Screenshot 22](public/22.png)
-![Screenshot 23](public/23.png)
-![Screenshot 24](public/24.png)
+<img src="public/01.png" alt="Screenshot 1" width="250"/>
+<img src="public/02.png" alt="Screenshot 2" width="250"/>
+<img src="public/03.png" alt="Screenshot 3" width="250"/>
+<img src="public/04.png" alt="Screenshot 4" width="250"/>
+<img src="public/05.png" alt="Screenshot 5" width="250"/>
+<img src="public/06.png" alt="Screenshot 6" width="250"/>
+<img src="public/07.png" alt="Screenshot 7" width="250"/>
+<img src="public/08.png" alt="Screenshot 8" width="250"/>
+<img src="public/09.png" alt="Screenshot 9" width="250"/>
+<img src="public/10.png" alt="Screenshot 10" width="250"/>
+<img src="public/11.png" alt="Screenshot 11" width="250"/>
+<img src="public/12.png" alt="Screenshot 12" width="250"/>
+<img src="public/13.png" alt="Screenshot 13" width="250"/>
+<img src="public/14.png" alt="Screenshot 14" width="250"/>
+<img src="public/15.png" alt="Screenshot 15" width="250"/>
+<img src="public/16.png" alt="Screenshot 16" width="250"/>
+<img src="public/17.png" alt="Screenshot 17" width="250"/>
+<img src="public/18.png" alt="Screenshot 18" width="250"/>
+<img src="public/19.png" alt="Screenshot 19" width="250"/>
+<img src="public/20.png" alt="Screenshot 20" width="250"/>
+<img src="public/21.png" alt="Screenshot 21" width="250"/>
+<img src="public/22.png" alt="Screenshot 22" width="250"/>
+<img src="public/23.png" alt="Screenshot 23" width="250"/>
+<img src="public/24.png" alt="Screenshot 24" width="250"/>
